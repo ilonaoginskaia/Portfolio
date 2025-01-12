@@ -1,4 +1,4 @@
-# Project 1:[Journey-Tracker-Application](https://github.com/ilonaoginskaia/Journey-Tracker-Application)
+# Project 1: [Journey-Tracker-Application](https://github.com/ilonaoginskaia/Journey-Tracker-Application)
 
 This is a simple web-based application that allows users to track their journeys by logging starting points, destinations, and distances traveled. The application ensures user authentication for secure data entry and includes session management for personalized experiences.
 
