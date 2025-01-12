@@ -20,6 +20,7 @@ This is a simple web-based application that allows users to track their journeys
 - **PHP**: For server-side scripting.
 - **HTML/CSS**: For structuring and styling the application.
 - **Session Handling**: Ensures security and persistence.
+
 ![Tracker_LogIn](https://github.com/user-attachments/assets/1b93dfd8-feb8-48c7-84be-66ccd71cd3b4)
 ![RegisterForm](https://github.com/user-attachments/assets/e6f83fed-90ec-45bf-b726-2b2c5bf22733)
 ![DataInput](https://github.com/user-attachments/assets/4f15348e-0e9e-4393-8f63-2f00cca71cf2)
@@ -75,6 +76,17 @@ Automated Job Search:
 - Excel Automation: For managing and formatting data.
 - PDF Activities: To handle file conversion within UiPath.
 - Email Activities: Automates the sending of the final PDF via email.
+## UiPath Workflow
+![Main1](https://github.com/user-attachments/assets/9fdd8457-5dd1-4ffa-9226-2c86a24a3ee4)
+![main2](https://github.com/user-attachments/assets/8dae7fe0-05a0-48b0-a392-779be55b0019)
+![Main3](https://github.com/user-attachments/assets/cb97d3f7-ab5f-4782-a3f4-f44e8b9119cd)
+![main4](https://github.com/user-attachments/assets/f55d1ac3-ff82-47a8-ac46-c8e9dc7ac6f4)
+![mol1](https://github.com/user-attachments/assets/c26cf3fe-f69c-4bb1-8f60-3d06e9355f5b)
+![mol2](https://github.com/user-attachments/assets/99ab9f50-c727-4bf2-96d1-b6350a897bce)
+![jobly1](https://github.com/user-attachments/assets/6ce051c6-843f-48d2-8394-79db2767a845)
+![jobly2](https://github.com/user-attachments/assets/7e730acd-31ce-4e39-8259-2b7ed2e2cfe2)
+
+## Running the Automation 
 ![UserInput](https://github.com/user-attachments/assets/5b76d091-0808-42e2-bdd7-ad78e647700a)
 ![Reports](https://github.com/user-attachments/assets/bd89e2bc-e282-4a8e-b569-8f90216ea550)
 ![Report1excel](https://github.com/user-attachments/assets/8c1b598e-43d4-4e11-b123-84fd481df008)
