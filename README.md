@@ -17,3 +17,14 @@ A simple, interactive ToDo list application that allows users to manage their ta
 - **CSS**: For styling and layout.
 - **JavaScript**: For interactivity and functionality.
 - **Local Storage**: For saving user tasks persistently across sessions.
+
+  ## How It Works
+
+1. **Add Tasks**: Type your task in the input box and click "Add".
+2. **Manage Tasks**: Use the delete button to remove individual tasks or "Clear All" to start fresh.
+
+3. **Save Tasks**: Tasks are saved in the browser's local storage and reloaded upon revisiting the app.
+4. **Export Tasks**: Use the feature to save tasks as a PDF document for external use.
+
+![ToDoList_Interface](https://github.com/user-attachments/assets/86197012-4b45-44b5-a044-3a92c43ea97a)
+![ToDoList_example](https://github.com/user-attachments/assets/cf0d9028-1918-4a32-bd08-ccb4a243939e)
