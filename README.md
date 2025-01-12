@@ -56,3 +56,22 @@ A simple, interactive ToDo list application that allows users to manage their ta
 
 ![ToDoList_Interface](https://github.com/user-attachments/assets/86197012-4b45-44b5-a044-3a92c43ea97a)
 ![ToDoList_example](https://github.com/user-attachments/assets/cf0d9028-1918-4a32-bd08-ccb4a243939e)
+
+
+# Project 3: Job Application Automation
+This is an automation tool designed to simplify the process of job searching and applying. The program scrapes job postings from selected platforms, organizes them in an Excel file, converts the data to PDF format, and sends the document to a client via email.
+
+## Features
+Automated Job Search:
+- Uses UiPath to scrape job postings by keywords from platforms like mol.fi and Jobly.fi.
+## Data Organization:
+- Extracted job details (e.g., job title, company, and location) are stored in a structured Excel file.
+## PDF Conversion:
+- The Excel file is automatically converted to a PDF file.
+## Email Integration:
+- The PDF is sent to an email address, simplifying the communication process.
+## Technologies Used
+- UiPath: For end-to-end automation of the job application process.
+- Excel Automation: For managing and formatting data.
+- PDF Activities: To handle file conversion within UiPath.
+- Email Activities: Automates the sending of the final PDF via email.
