@@ -75,3 +75,9 @@ Automated Job Search:
 - Excel Automation: For managing and formatting data.
 - PDF Activities: To handle file conversion within UiPath.
 - Email Activities: Automates the sending of the final PDF via email.
+![UserInput](https://github.com/user-attachments/assets/5b76d091-0808-42e2-bdd7-ad78e647700a)
+![Reports](https://github.com/user-attachments/assets/bd89e2bc-e282-4a8e-b569-8f90216ea550)
+![Report1excel](https://github.com/user-attachments/assets/8c1b598e-43d4-4e11-b123-84fd481df008)
+![Report2excel](https://github.com/user-attachments/assets/61449be6-8bf1-4f45-9ee4-27e56a0a2aa9)
+![PDFreport](https://github.com/user-attachments/assets/3bd6676f-e487-417d-9362-42a546a45bd7)
+![ClientEmail](https://github.com/user-attachments/assets/124ef9a5-f40e-4514-a7af-65db4b229931)
