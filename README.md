@@ -1,4 +1,4 @@
-# Project 1: ToDo List Application
+# Project 1: [ToDo List Application](https://github.com/ilonaoginskaia/ToDo-List-app)
 
 A simple, interactive ToDo list application that allows users to manage their tasks efficiently. This project demonstrates core web development skills, including HTML, CSS, JavaScript, and local storage for persistent task saving.
 
