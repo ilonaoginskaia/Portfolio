@@ -212,9 +212,7 @@ Rooms can be marked as cleaned once the task is completed.
 
 ## Views, CREATE VIEW examples: 
 
-![view 1](https://github.com/user-attachments/assets/787ad1ac-a7f7-41e7-a1ef-9be3d8bfcac4)  ![view 2](https://github.com/user-attachments/assets/5b999184-8b02-430d-8fb8-d4b5f3289277)
-
-![view 3](https://github.com/user-attachments/assets/60e8a0d7-94c2-4772-ad8e-080d3ae435ee)
+![view 1](https://github.com/user-attachments/assets/787ad1ac-a7f7-41e7-a1ef-9be3d8bfcac4)  ![view 2](https://github.com/user-attachments/assets/5b999184-8b02-430d-8fb8-d4b5f3289277) ![view 3](https://github.com/user-attachments/assets/60e8a0d7-94c2-4772-ad8e-080d3ae435ee)
 
 ## Procedure example: 
 
