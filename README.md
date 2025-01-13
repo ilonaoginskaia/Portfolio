@@ -173,4 +173,32 @@ Adding the index improved query performance significantly, reducing execution ti
 ## Technologies Used
 - MongoDB
 
+## Project 5: Hotel Room Reservation System (SSMS)
+This project involves developing a hotel room reservation system using Microsoft SQL Server Management Studio (SSMS). The system facilitates room bookings for customers based on room size, amenities, furnishings, and pricing. It also manages staff operations, ensuring smooth hotel functionality.
+
+## Features
+
+# Customer Operations:
+- Room Booking:
+Customers can book rooms for specific dates via the hotel's website or in-person at the reception.
+Bookings consider room size, features, and availability.
+- Data Logging:
+Receptionists record customer details and stay duration.
+Rooms are marked as reserved upon booking.
+# Admin Operations:
+- Online Bookings:
+Bookings made via the website are managed by the system admin.
+- Check-Out Management:
+Upon customer departure, the reservation is removed, and the room is flagged for cleaning.
+# Staff Operations:
+- Housekeeping:
+Cleaners can check which rooms require cleaning via the system.
+Rooms can be marked as cleaned once the task is completed.
+
+
+## Technologies Used:
+Microsoft SQL Server Management Studio (SSMS):
+Database management and query execution.
+Used for structuring and maintaining the reservation database.
+
 
