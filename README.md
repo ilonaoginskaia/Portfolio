@@ -13,8 +13,18 @@ Eva's Eden is a well-being business that offers holistic services focused on phy
 - UpdraftPlus - Backup/Restore: Automatically backs up the site to avoid data loss.
 - Solid Security Basic: Provides basic website security features to prevent hacks and malware.
 
+![landingpage](https://github.com/user-attachments/assets/79acd85b-479a-4ca8-8933-bd70a31691fb)
 
-# Project 2: [Journey-Tracker-Application](https://github.com/ilonaoginskaia/Journey-Tracker-Application)
+![landing](https://github.com/user-attachments/assets/76e32fa9-2f02-4d5b-bc8e-1b45cc8bffdb)
+
+![landing2](https://github.com/user-attachments/assets/d2f848ce-7106-446b-b71f-fe59dd993a0f)
+
+![about](https://github.com/user-attachments/assets/6c866217-ca48-4c30-ac32-ff1cce5332d7)
+
+![booking](https://github.com/user-attachments/assets/bd2ccaba-0dde-4560-877e-1444bb1f32ef)
+
+# Project 2: [Journey-Tracker-Application](https://github.c![Uploading about.png…]()
+om/ilonaoginskaia/Journey-Tracker-Application)
 
 This is a simple web-based application that allows users to track their journeys by logging starting points, destinations, and distances traveled. The application ensures user authentication for secure data entry and includes session management for personalized experiences.
 
