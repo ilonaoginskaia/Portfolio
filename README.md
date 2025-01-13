@@ -15,11 +15,6 @@ This is a simple web-based application that allows users to track their journeys
 - **Data Security**:
   - Sessions are used to secure user data.
 
-  ## Use Case example: Reservation Confirmations and Cancellations
-
-  ![case](https://github.com/user-attachments/assets/2b570f36-6272-4884-8ae2-cc624d06ed4c)
-
-
 ## Technologies Used
 
 - **PHP**: For server-side scripting.
@@ -199,6 +194,18 @@ Upon customer departure, the reservation is removed, and the room is flagged for
 - Housekeeping:
 Cleaners can check which rooms require cleaning via the system.
 Rooms can be marked as cleaned once the task is completed.
+
+## Use Case example: Booking
+
+![case booking](https://github.com/user-attachments/assets/811e8b75-541a-473d-86fa-6337b2cac3d4)
+
+
+##  Use Case example: Reservation Confirmations and Cancellations
+
+  ![case](https://github.com/user-attachments/assets/2b570f36-6272-4884-8ae2-cc624d06ed4c)
+
+
+
 
 
 ## Technologies Used:
