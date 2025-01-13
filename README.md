@@ -93,3 +93,59 @@ Automated Job Search:
 ![Report2excel](https://github.com/user-attachments/assets/61449be6-8bf1-4f45-9ee4-27e56a0a2aa9)
 ![PDFreport](https://github.com/user-attachments/assets/3bd6676f-e487-417d-9362-42a546a45bd7)
 ![ClientEmail](https://github.com/user-attachments/assets/124ef9a5-f40e-4514-a7af-65db4b229931)
+
+
+## Project 4: E-commerce Database System
+This project focuses on designing and implementing a MongoDB database for an e-commerce system. The database stores and manages critical information about customers, products, orders, and payment transactions, enabling efficient and scalable data handling.
+
+## Features
+- Structured Data Management:
+Organized into four main collections: Customers, Products, Orders, and Payment Transactions.
+- Each collection is tailored to a specific domain of the e-commerce system.
+
+## Customer Data:
+
+Stores customer details like name, email, address, and order history.
+![customer data](https://github.com/user-attachments/assets/1d98f603-f0bf-4ac2-8258-b748713d36e4)
+![customer data input](https://github.com/user-attachments/assets/6980dfb0-977e-45b5-89bc-cfb6753961e7)
+
+
+## Product Information:
+
+Maintains product details such as name, description, price, and availability.
+Ensures that customers only see products currently in stock.
+
+![product info](https://github.com/user-attachments/assets/a93d61ba-eaaa-4668-813e-7a10f1a722eb)
+![product info input](https://github.com/user-attachments/assets/2d971152-7d98-4314-8ad3-8bbfe7a86613)
+
+## Order Processing:
+
+Manages order details including order number, customer, products ordered, and order status.
+Tracks order status updates throughout the order lifecycle.
+
+![order](https://github.com/user-attachments/assets/f91c7307-3673-4bb4-9b80-8dec271f3174)
+![order input](https://github.com/user-attachments/assets/0fa20c18-d794-4bdb-99f6-8b7cc7798fda)
+
+## Payment Handling:
+Records payment transactions with details such as payment method, order number, amount, and date.
+Separates payment processing from orders for streamlined analytics and reporting.
+
+![payment](https://github.com/user-attachments/assets/62f50f87-6528-4496-9ead-1100aa23526a)
+![payment input](https://github.com/user-attachments/assets/0ee1985b-a0db-4436-bdbb-8ea3d1355633)
+
+## CRUD Queries examples:
+Add a New Customer:
+![add client](https://github.com/user-attachments/assets/a400890f-c2ad-44f1-acc6-5e3a5eb1b20e)
+
+Update a Customer's Email Address:
+![update email](https://github.com/user-attachments/assets/38d68d35-2c59-4433-9aa2-d02365a54300)
+
+Add an Order to a Customer's Order History:
+![add order](https://github.com/user-attachments/assets/ea1d1b5f-9675-4d97-92a1-88c7add1e892)
+
+
+
+## Technologies Used
+- MongoDB
+
+
