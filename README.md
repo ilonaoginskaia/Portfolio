@@ -1,4 +1,18 @@
-# Project 1: Eva's Eden - Well-being Services Website 
+# Project 1: [Eva's Eden - Well-being Services Website] (https://www.evaseden.fi/)
+
+Eva's Eden is a well-being business that offers holistic services focused on physical, mental, and emotional health. The WordPress website serves as an online platform to provide clients with easy access to various services such as massage therapy, fitness coaching, language lessons, and speaker engagements.
+
+## Technologies and Plugins Used
+
+- WordPress: The foundation of the website, providing the content management system.
+- Elementor: The page builder used to create custom layouts.
+- Appointment Hour Booking: Enables users to book services and appointments.
+- Essential Addons for Elementor: Enhances Elementor with additional design features.
+- Social Feed Gallery: Displays social media feeds directly on the site.
+- WP Mail SMTP: Ensures reliable email delivery for notifications and communications.
+- UpdraftPlus - Backup/Restore: Automatically backs up the site to avoid data loss.
+- Solid Security Basic: Provides basic website security features to prevent hacks and malware.
+
 
 # Project 2: [Journey-Tracker-Application](https://github.com/ilonaoginskaia/Journey-Tracker-Application)
 
