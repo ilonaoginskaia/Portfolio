@@ -107,28 +107,28 @@ Organized into four main collections: Customers, Products, Orders, and Payment T
 ## Technologies Used
 - MongoDB
 
-# Customer Data:
+### Customer Data:
 
 Stores customer details like name, email, address, and order history.
 
 ![customer data](https://github.com/user-attachments/assets/1d98f603-f0bf-4ac2-8258-b748713d36e4) ![customer data input](https://github.com/user-attachments/assets/6980dfb0-977e-45b5-89bc-cfb6753961e7)
 
 
-# Product Information:
+### Product Information:
 
 Maintains product details such as name, description, price, and availability.
 Ensures that customers only see products currently in stock.
 
 ![product info](https://github.com/user-attachments/assets/a93d61ba-eaaa-4668-813e-7a10f1a722eb) ![product info input](https://github.com/user-attachments/assets/2d971152-7d98-4314-8ad3-8bbfe7a86613)
 
-# Order Processing:
+### Order Processing:
 
 Manages order details including order number, customer, products ordered, and order status.
 Tracks order status updates throughout the order lifecycle.
 
 ![order](https://github.com/user-attachments/assets/f91c7307-3673-4bb4-9b80-8dec271f3174) ![order input](https://github.com/user-attachments/assets/0fa20c18-d794-4bdb-99f6-8b7cc7798fda)
 
-# Payment Handling:
+### Payment Handling:
 Records payment transactions with details such as payment method, order number, amount, and date.
 Separates payment processing from orders for streamlined analytics and reporting.
 
