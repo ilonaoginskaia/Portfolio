@@ -1,3 +1,5 @@
+# Project 1: Eva's Eden - Well-being Services Website 
+
 # Project 1: [Journey-Tracker-Application](https://github.com/ilonaoginskaia/Journey-Tracker-Application)
 
 This is a simple web-based application that allows users to track their journeys by logging starting points, destinations, and distances traveled. The application ensures user authentication for secure data entry and includes session management for personalized experiences.
@@ -65,13 +67,13 @@ This is an automation tool designed to simplify the process of job searching and
 ## Features
 Automated Job Search:
 - Uses UiPath to scrape job postings by keywords from platforms like mol.fi and Jobly.fi.
-# Data Organization:
+### Data Organization:
 - Extracted job details (e.g., job title, company, and location) are stored in a structured Excel file.
-# PDF Conversion:
+### PDF Conversion:
 - The Excel file is automatically converted to a PDF file.
-# Email Integration:
+### Email Integration:
 - The PDF is sent to an email address, simplifying the communication process.
-# Technologies Used
+### Technologies Used
 - UiPath: For end-to-end automation of the job application process.
 - Excel Automation: For managing and formatting data.
 - PDF Activities: To handle file conversion within UiPath.
