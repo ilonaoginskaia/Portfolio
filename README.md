@@ -204,8 +204,11 @@ Rooms can be marked as cleaned once the task is completed.
 
   ![case](https://github.com/user-attachments/assets/2b570f36-6272-4884-8ae2-cc624d06ed4c)
 
+## ER Diagram: 
 
+![Kaavio](https://github.com/user-attachments/assets/62ced177-8a8c-4378-999c-f9b9e7beac81)
 
+![diagram](https://github.com/user-attachments/assets/db2ead40-df53-4343-bbda-98f8bdddab14)
 
 
 ## Technologies Used:
