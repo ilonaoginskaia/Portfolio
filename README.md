@@ -210,6 +210,16 @@ Rooms can be marked as cleaned once the task is completed.
 
 ![diagram](https://github.com/user-attachments/assets/db2ead40-df53-4343-bbda-98f8bdddab14)
 
+## Tables example: 
+
+![tables](https://github.com/user-attachments/assets/8988b6cf-3f6d-40dd-87ca-6abaec20fbbe)
+
+## Views, CREATE VIEW examples: 
+
+![view 1](https://github.com/user-attachments/assets/787ad1ac-a7f7-41e7-a1ef-9be3d8bfcac4)  ![view 2](https://github.com/user-attachments/assets/5b999184-8b02-430d-8fb8-d4b5f3289277)
+
+![view 3](https://github.com/user-attachments/assets/60e8a0d7-94c2-4772-ad8e-080d3ae435ee)
+
 
 ## Technologies Used:
 Microsoft SQL Server Management Studio (SSMS):
