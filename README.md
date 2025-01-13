@@ -23,7 +23,7 @@ Eva's Eden is a well-being business that offers holistic services focused on phy
 
 ![booking](https://github.com/user-attachments/assets/bd2ccaba-0dde-4560-877e-1444bb1f32ef)
 
-# Project 2: [Journey-Tracker-Application](https://github.c![Uploading about.png…]()
+# Project 2: [Journey-Tracker-Application](https://github.c![Uploading about.png…])
 om/ilonaoginskaia/Journey-Tracker-Application)
 
 This is a simple web-based application that allows users to track their journeys by logging starting points, destinations, and distances traveled. The application ensures user authentication for secure data entry and includes session management for personalized experiences.
