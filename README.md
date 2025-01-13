@@ -1,4 +1,4 @@
-# Project 1: [Eva's Eden - Well-being Services Website] https://www.evaseden.fi/
+# Project 1: [Eva's Eden - Well-being Services Website](https://www.evaseden.fi/)
 
 Eva's Eden is a well-being business that offers holistic services focused on physical, mental, and emotional health. The WordPress website serves as an online platform to provide clients with easy access to various services such as massage therapy, fitness coaching, language lessons, and speaker engagements.
 
