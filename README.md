@@ -146,7 +146,29 @@ Add an Order to a Customer's Order History:
 
 ![add order](https://github.com/user-attachments/assets/ea1d1b5f-9675-4d97-92a1-88c7add1e892)
 
+## Example of Aggregation Framework
+We want to determine how many orders have been placed by each customer:
 
+![aggregation1](https://github.com/user-attachments/assets/ed17b4c7-2430-4c9e-8ebc-8b94c5a3f874)
+
+![aggregation 2](https://github.com/user-attachments/assets/d0b0c822-21e1-4aab-a7ff-f75253a7c2aa)
+![aggregation 3](https://github.com/user-attachments/assets/e8e51076-d290-4e06-ab91-dc133137a9d8)
+
+## Charts: 
+
+![chart1](https://github.com/user-attachments/assets/52bd3257-8ea1-4635-8de1-1fad86764dcf)
+
+![chart 2](https://github.com/user-attachments/assets/d2552d3f-6726-47a6-9ca0-83b25d3f5004)
+
+![chart 3](https://github.com/user-attachments/assets/2760c57d-e160-46c5-8f6f-77c012510b89)
+
+## Index Creation:
+
+An index was created on the sähköposti (email) field in the Asiakkaat collection:
+
+![index](https://github.com/user-attachments/assets/bd80454a-1577-4357-b5d1-13faaf36956f)
+
+Adding the index improved query performance significantly, reducing execution time by 82.35%.
 
 ## Technologies Used
 - MongoDB
