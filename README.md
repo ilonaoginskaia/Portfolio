@@ -250,7 +250,8 @@ Rooms can be marked as cleaned once the task is completed.
 
 ![procedure 1](https://github.com/user-attachments/assets/bfee442d-5cfe-4c33-8fc5-e2d0223630be) ![procedure 2](https://github.com/user-attachments/assets/27f68b5a-144b-4413-99a5-5de7c0ee4b15)
 
-# Project 7: [ÄlyX - Puzzle Games Company Website (HTML/CSS)](https://www.cc.puv.fi/~e2203076/project1/index1.html)
+# Project 7: [ÄlyX - Puzzle Games Company Website (HTML/CSS)](https://github.com/ilonaoginskaia/HTML-CSS-project-web-site)
+###[ÄlyX web page](https://www.cc.puv.fi/~e2203076/project1/index1.html)
 
  *ÄlyX is a fictional company based in Vaasaan, specializing in the creation of wooden puzzle games. This website is a basic example created using HTML5 and CSS, aimed to showcase the structure of a company website. Please note that this is not a fully functional website, but rather a demonstration of how the site might look using the foundations of HTML and CSS.
 
