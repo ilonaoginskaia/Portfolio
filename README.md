@@ -282,8 +282,16 @@ Contact Form: Simple form in HTML for reselling inquiries.
 # Important Note
 This project is an example built using the basics of HTML5 and CSS. It is not a fully functional website, but rather serves as a demonstration of the layout and structure of a possible business website for ÄlyX. The purpose of this project was to showcase the essential elements of web design using HTML5 and CSS and to give a visual representation of how the final website might appear.
 
+# Project 8: Book Review App (Prototype)
 
+The Book Review App is a user-friendly mobile application that allows users to quickly assess whether a book is worth purchasing or reading. By simply scanning the book cover, users gain immediate access to reviews from popular platforms like Amazon, Goodreads, and others. The app aggregates these reviews to offer a comprehensive view of a book’s reception, enabling more informed decisions before committing to read or buy a book.
 
+## Key Features:
 
+ - Instant Review Access: Users can download the picture of the cover of a book/ write down a book's name and the app will retrieve and display reviews and ratings from Amazon, Goodreads, and other review sites.
+ - Aggregated Reviews: The app gathers reviews from multiple platforms to provide a balanced and broad view of how the book has been received by other readers.
+ - Seamless User Interface: Designed with simplicity in mind, the app provides an easy-to-use interface for users of all backgrounds.
+ - Decision Assistance: Helps users make purchasing decisions by presenting aggregated feedback, giving them the chance to evaluate if a book is worth their time.
+ - Book Discovery: Users can also explore trending books, highly-rated titles, or explore new genres based on the aggregated ratings and reviews.
 
-
+![app](https://github.com/user-attachments/assets/67fd9d00-9b9a-4537-8e9b-ec71ba51f4ca)
