@@ -95,7 +95,7 @@ Automated Job Search:
 ![ClientEmail](https://github.com/user-attachments/assets/124ef9a5-f40e-4514-a7af-65db4b229931)
 
 
-## Project 4: E-commerce Database System
+# Project 4: E-commerce Database System
 This project focuses on designing and implementing a MongoDB database for an e-commerce system. The database stores and manages critical information about customers, products, orders, and payment transactions, enabling efficient and scalable data handling.
 
 ## Features
@@ -173,7 +173,7 @@ Adding the index improved query performance significantly, reducing execution ti
 ## Technologies Used
 - MongoDB
 
-## Project 5: Hotel Room Reservation System (SSMS)
+# Project 5: Hotel Room Reservation System (SSMS)
 This project involves developing a hotel room reservation system using Microsoft SQL Server Management Studio (SSMS). The system facilitates room bookings for customers based on room size, amenities, furnishings, and pricing. It also manages staff operations, ensuring smooth hotel functionality.
 
 ## Features
