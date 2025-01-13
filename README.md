@@ -101,7 +101,6 @@ This project focuses on designing and implementing a MongoDB database for an e-c
 ## Features
 - Structured Data Management:
 Organized into four main collections: Customers, Products, Orders, and Payment Transactions.
-- Each collection is tailored to a specific domain of the e-commerce system.
 
 ## Customer Data:
 
@@ -136,12 +135,15 @@ Separates payment processing from orders for streamlined analytics and reporting
 
 ## CRUD Queries examples:
 Add a New Customer:
+
 ![add client](https://github.com/user-attachments/assets/a400890f-c2ad-44f1-acc6-5e3a5eb1b20e)
 
 Update a Customer's Email Address:
+
 ![update email](https://github.com/user-attachments/assets/38d68d35-2c59-4433-9aa2-d02365a54300)
 
 Add an Order to a Customer's Order History:
+
 ![add order](https://github.com/user-attachments/assets/ea1d1b5f-9675-4d97-92a1-88c7add1e892)
 
 
