@@ -15,6 +15,11 @@ This is a simple web-based application that allows users to track their journeys
 - **Data Security**:
   - Sessions are used to secure user data.
 
+  ## Use Case example: Reservation Confirmations and Cancellations
+
+  ![case](https://github.com/user-attachments/assets/2b570f36-6272-4884-8ae2-cc624d06ed4c)
+
+
 ## Technologies Used
 
 - **PHP**: For server-side scripting.
