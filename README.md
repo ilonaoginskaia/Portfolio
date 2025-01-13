@@ -178,19 +178,19 @@ This project involves developing a hotel room reservation system using Microsoft
 
 ## Features
 
-# Customer Operations:
+### Customer Operations:
 - Room Booking:
 Customers can book rooms for specific dates via the hotel's website or in-person at the reception.
 Bookings consider room size, features, and availability.
 - Data Logging:
 Receptionists record customer details and stay duration.
 Rooms are marked as reserved upon booking.
-# Admin Operations:
+### Admin Operations:
 - Online Bookings:
 Bookings made via the website are managed by the system admin.
 - Check-Out Management:
 Upon customer departure, the reservation is removed, and the room is flagged for cleaning.
-# Staff Operations:
+### Staff Operations:
 - Housekeeping:
 Cleaners can check which rooms require cleaning via the system.
 Rooms can be marked as cleaned once the task is completed.
