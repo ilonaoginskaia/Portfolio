@@ -23,6 +23,17 @@ Eva's Eden is a well-being business that offers holistic services focused on phy
 
 ![booking](https://github.com/user-attachments/assets/bd2ccaba-0dde-4560-877e-1444bb1f32ef)
 
+# Project 2: Blender 3D modeling examples: 
+
+I have created several 3D modeling examples using Blender, demonstrating basic techniques for building and shaping low-poly objects. 
+
+![Blender example 1](https://github.com/user-attachments/assets/b3ee43f2-9538-4b3b-b1e5-08ae85d32313)
+
+![blender example 2](https://github.com/user-attachments/assets/349b25b6-693c-4926-96ef-e3e6a958126a)
+
+
+
+
 # Project 2: [Journey-Tracker-Application](https://github.com/ilonaoginskaia/Journey-Tracker-Application.git)
 om/ilonaoginskaia/Journey-Tracker-Application)
 
