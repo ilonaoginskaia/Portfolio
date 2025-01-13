@@ -106,6 +106,7 @@ Organized into four main collections: Customers, Products, Orders, and Payment T
 ## Customer Data:
 
 Stores customer details like name, email, address, and order history.
+
 ![customer data](https://github.com/user-attachments/assets/1d98f603-f0bf-4ac2-8258-b748713d36e4)
 ![customer data input](https://github.com/user-attachments/assets/6980dfb0-977e-45b5-89bc-cfb6753961e7)
 
